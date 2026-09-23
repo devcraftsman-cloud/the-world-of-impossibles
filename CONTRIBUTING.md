@@ -1,4 +1,3 @@
-@'
 # Community Ethos & Workshop Guidelines
 
 In this sandbox, everyone is welcome as their authentic, eccentric creative self.
@@ -12,4 +11,3 @@ In this sandbox, everyone is welcome as their authentic, eccentric creative self
 1. Fork the repo.
 2. Add your piece under `archives/essays/` or `archives/fragments/`.
 3. Open a Pull Request with a short note on what kind of feedback you’re looking for (or file an Issue using the Workshop template).
-'@ | Out-File -FilePath CONTRIBUTING.md -Encoding utf8
